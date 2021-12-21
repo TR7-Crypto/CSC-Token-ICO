@@ -1,0 +1,18 @@
+{
+	"name": "CS1 Token Sale",
+	"version": "1.0.0",
+	"description": "Dapp Token Sale ICO",
+	"main": "truffle.js",
+	"directories": {
+		"test": "test"
+	},
+	"author": "TR7",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.3.0"
+	},
+
+	"scripts": {
+		"dev": "lite-server"
+	}
+}
