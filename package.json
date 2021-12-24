@@ -11,8 +11,12 @@
 	"devDependencies": {
 		"lite-server": "^2.3.0"
 	},
-
 	"scripts": {
 		"dev": "lite-server"
+	},
+	"dependencies": {
+		"@truffle/hdwallet-provider": "^2.0.0",
+		"dotenv": "^10.0.0",
+		"truffle-hdwallet-provider": "^1.0.17"
 	}
 }
