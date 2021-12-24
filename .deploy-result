@@ -1,0 +1,45 @@
+2_deploy_contracts.js
+=====================
+
+   Deploying 'DappToken'
+   ---------------------
+   > transaction hash:    0x1ca98242360e2f2c6682f03e5cb073296faae67cf8237931a4e53a96b3b3ff41
+   > Blocks: 1            Seconds: 17
+   > contract address:    0xa06884A5651ceca0C013FdC4bD3C4BF47Cdf097e
+   > block number:        11675095
+   > block timestamp:     1640251532
+   > account:             0xdF362bdde2D9c647Db05C6931D8adc7c2c076A72
+   > balance:             2.996310637481786162
+   > gas used:            883611 (0xd7b9b)
+   > gas price:           2.500000011 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002209027509719721 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 11675096)
+   > confirmation number: 2 (block: 11675097)
+
+   Deploying 'DappTokenSale'
+   -------------------------
+   > transaction hash:    0x59e20f356297fadde40b3f7db39097c7bbdf1a8e7b40bf12d1ba2498c308b0aa
+   > Blocks: 1            Seconds: 9
+   > contract address:    0x6b8DDdbc4c785A21963Ba1C908298d79A14086bE
+   > block number:        11675099
+   > block timestamp:     1640251573
+   > account:             0xdF362bdde2D9c647Db05C6931D8adc7c2c076A72
+   > balance:             2.994780087476276182
+   > gas used:            612220 (0x9577c)
+   > gas price:           2.500000009 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00153055000550998 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 11675101)
+   > confirmation number: 2 (block: 11675102)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.003739577515229701 ETH
